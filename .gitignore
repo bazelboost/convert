@@ -27,6 +27,4 @@ Release/
 a.out
 Jamroot.jam
 
-
-
-
+/bazel-*
